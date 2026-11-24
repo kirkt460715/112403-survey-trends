@@ -11,6 +11,15 @@
       "key": "form_version"
     },
     {
+      "file": "events.csv",
+      "columns": [
+        "event_id",
+        "event_date",
+        "course_version"
+      ],
+      "key": "event_id"
+    },
+    {
       "file": "items.csv",
       "columns": [
         "form_version",
