@@ -1,0 +1,7 @@
+form_version,item_id,construct,scale,required
+F1,Q1,历史理解,1-5,yes
+F1,Q2,实践信心,1-5,no
+F2,Q1,历史理解,1-5,yes
+F2,Q2a,历史理解,yes/no,yes
+F2,Q2b,实践信心,1-5,no
+F3,Q1,历史理解,1-7,yes

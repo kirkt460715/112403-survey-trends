@@ -1,0 +1,4 @@
+form_version,valid_from,valid_to,course_version
+F1,2026-08-01,2026-09-30,C1
+F2,2026-10-01,2026-12-31,C2
+F3,2027-01-01,,C3

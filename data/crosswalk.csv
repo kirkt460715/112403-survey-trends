@@ -1,0 +1,4 @@
+from_version,from_item,to_version,to_item,link_type,review
+F1,Q1,F2,Q1,shared,approved
+F1,Q2,F2,Q2b,related,pending
+F2,Q1,F3,Q1,shared,review

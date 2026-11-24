@@ -1,0 +1,58 @@
+{
+  "tables": [
+    {
+      "file": "forms.csv",
+      "columns": [
+        "form_version",
+        "valid_from",
+        "valid_to",
+        "course_version"
+      ],
+      "key": "form_version"
+    },
+    {
+      "file": "items.csv",
+      "columns": [
+        "form_version",
+        "item_id",
+        "construct",
+        "scale",
+        "required"
+      ]
+    },
+    {
+      "file": "crosswalk.csv",
+      "columns": [
+        "from_version",
+        "from_item",
+        "to_version",
+        "to_item",
+        "link_type",
+        "review"
+      ]
+    },
+    {
+      "file": "responses.csv",
+      "columns": [
+        "response_id",
+        "person_token",
+        "event_id",
+        "form_version",
+        "item_id",
+        "value",
+        "missing_reason"
+      ],
+      "key": "response_id"
+    },
+    {
+      "file": "parallel_trials.csv",
+      "columns": [
+        "trial_id",
+        "event_id",
+        "person_token",
+        "form_version",
+        "assigned"
+      ]
+    }
+  ]
+}
