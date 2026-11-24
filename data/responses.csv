@@ -1,7 +1,7 @@
-response_id,person_token,event_id,form_version,item_id,value,missing_reason
-R1,U1,E1,F1,Q1,4,
-R2,U2,E1,F1,Q1,3,
-R3,U1,E2,F2,Q1,5,
-R4,U3,E2,F2,Q2a,yes,
-R5,U4,E3,F2,Q2b,,skipped
-R6,U5,E3,F2,Q1,,device_loss
+response_id,person_token,event_id,language,form_version,item_id,value,missing_reason
+R1,U1,E1,普通话,F1,Q1,4,
+R2,U2,E1,普通话,F1,Q1,3,
+R3,U1,E3,晋地方言,F2,Q1,5,
+R4,U3,E3,晋地方言,F2,Q2,4,
+R5,U4,E3,晋地方言,F2,Q2,,skipped
+R6,U5,E4,晋地方言,F3,Q1,,not_understood

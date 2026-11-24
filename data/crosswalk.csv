@@ -1,4 +1,4 @@
-from_version,from_item,to_version,to_item,link_type,review
-F1,Q1,F2,Q1,shared,approved
-F1,Q2,F2,Q2b,related,pending
-F2,Q1,F3,Q1,shared,review
+left_version,left_item,right_version,right_item,relation,review
+F1,Q1,F2,Q1,same_concept,approved
+F1,Q2,F2,Q2,paraphrase,pending
+F2,Q1,F3,Q1,split_concept,review

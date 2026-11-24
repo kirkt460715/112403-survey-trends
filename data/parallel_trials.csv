@@ -1,5 +1,5 @@
-trial_id,event_id,person_token,form_version,assigned
-T1,E3,U6,F1,yes
-T1,E3,U6,F2,yes
-T2,E4,U7,F2,yes
-T2,E4,U8,F3,yes
+trial_id,event_id,person_token,form_version,item_id,assigned
+T1,E3,U6,F1,Q1,yes
+T1,E3,U6,F2,Q1,yes
+T2,E3,U7,F1,Q2,yes
+T2,E3,U7,F2,Q2,yes
